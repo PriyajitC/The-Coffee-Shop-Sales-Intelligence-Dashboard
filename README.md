@@ -18,4 +18,4 @@ This project presents an **interactive Excel dashboard** analyzing 6 months of c
 - Conditional Formatting  
 
 ## 📸 Dashboard Preview
-![Dashboard Preview]([screenshots/dashboard-preview.png](https://github.com/PriyajitC/The-Coffee-Shop-Sales-Intelligence-Dashboard/blob/611f4da3e35ce8c9bda535a73bf7b09ce05eb4c3/Coffee%20Shop%20Sales%20New.png))
+![Dashboard Preview](https://github.com/PriyajitC/The-Coffee-Shop-Sales-Intelligence-Dashboard/blob/611f4da3e35ce8c9bda535a73bf7b09ce05eb4c3/Coffee%20Shop%20Sales%20New.png))
